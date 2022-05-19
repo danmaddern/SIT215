@@ -1,6 +1,6 @@
 # SIT215 - Reinforcement Learning
 
-**Libraries **  
+**Libraries **   
 from IPython.display import clear_output  
 import gym as g  
 import random as rnd  
